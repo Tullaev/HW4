@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    border: 2px solid rgb(140, 199, 140);
+    background-color: rgb(30, 255, 0);
+    text-align: center;
+    border-radius: 40px;
+
+}
+
+.block {
+    border: 2px solid green;
+    margin-bottom: 30px;
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+img{
+    height: 230px;
+    width: auto;
+}
+
+p {
+    height: auto;
+    width: 400px;
+    margin: auto;
+}
+body {
+    background-color: aqua;
+}
